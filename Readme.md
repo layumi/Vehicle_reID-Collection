@@ -9,10 +9,15 @@ Just for a collection. I do not work on this topic.
 ## Recent Papers
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification (ICCV2017)
 
+Comments: Use multiple training sets.
+
 2. Learning Deep Neural Networks for Vehicle Re-ID with Visual-spatio-temporal Path Proposals (ICCV2017)
+
+Comments: Add the time constraint.
 
 3. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles (ICCV2017)
 
-Comments: propose a dataset.
+Comments: Propose a dataset.
 
 4. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification (CVPR2018)
+
