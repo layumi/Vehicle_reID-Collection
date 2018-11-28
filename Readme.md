@@ -21,3 +21,7 @@ Comments: Propose a dataset.
 
 4. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification (CVPR2018)
 
+5. Group sensitive triplet embedding for vehicle re-identification (TMM)
+
+6. Deep relative distance learning: Tell the difference between similar vehicles. (CVPR2016)
+
