@@ -25,3 +25,5 @@ Comments: Propose a dataset.
 
 6. Deep relative distance learning: Tell the difference between similar vehicles. (CVPR2016)
 
+7. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. (ACCV2018)
+
