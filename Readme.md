@@ -2,9 +2,9 @@
 Just for a collection. I do not work on this topic.
 
 ## Dataset
-1.VeRi-776
+1. VeRi-776
 
-2.Vehicle-ID
+2. Vehicle-ID
 
 ## Recent Papers
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification **(ICCV2017)**
