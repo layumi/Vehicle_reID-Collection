@@ -2,9 +2,34 @@
 Just for a collection. I do not work on this topic.
 
 ## Dataset
-1. VeRi-776
+1. [VeRi-776](https://github.com/VehicleReId/VeRidataset)
 
-2. Vehicle-ID
+49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
+
+2. [PKU Vehicle-ID](https://pkuml.org/resources/pku-vehicleid.html)
+
+90,196 images of 10,319 vehicles. Only two camera views??
+
+3. [PKU-VD](https://pkuml.org/resources/pku-vds.html)
+
+with attribute.
+
+4. [VehicleReID](https://medusa.fit.vutbr.cz/traffic/research-topics/detection-of-vehicles-and-datasets/vehicle-re-identification-for-automatic-video-traffic-surveillance-ats-cvpr-2016/)
+
+47,123 images from two cameras.
+
+5. [PKU-Vehicle](http://59.110.216.11/html/)
+
+no ID lablled.
+
+6. [CompCars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
+
+136,726 + 27,618 images of 1,716 cars with attributes.
+
+7. [StanfordCars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
+16,185 images of 196 classes.
+
 
 ## Recent Papers
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification **(ICCV2017)**
