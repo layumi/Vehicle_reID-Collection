@@ -16,7 +16,7 @@ with attribute.
 
 4. [VehicleReID](https://medusa.fit.vutbr.cz/traffic/research-topics/detection-of-vehicles-and-datasets/vehicle-re-identification-for-automatic-video-traffic-surveillance-ats-cvpr-2016/)
 
-47,123 images from two cameras.
+47,123 images from two cameras & lablled on pair.
 
 5. [PKU-Vehicle](http://59.110.216.11/html/)
 
