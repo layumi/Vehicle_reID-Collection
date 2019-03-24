@@ -24,7 +24,7 @@ no ID lablled.
 
 6. [CompCars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 
-136,726 + 27,618 images of 1,716 cars with attributes.
+136,726 + 27,618 images of 1,716 cars with attributes. After crop,  136,713.
 
 7. [StanfordCars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
