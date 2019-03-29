@@ -4,13 +4,13 @@ Just for a collection. I do not work on this topic.
 ## Dataset
 1. VeRi-776
 
-[project](https://github.com/VehicleReId/VeRidataset) [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+    [project](https://github.com/VehicleReId/VeRidataset) [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
 2. PKU Vehicle-ID
 
-[project](https://pkuml.org/resources/pku-vehicleid.html) [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
+  [project](https://pkuml.org/resources/pku-vehicleid.html) [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 
 90,196 images of 10,319 vehicles. Only two camera views??
 
