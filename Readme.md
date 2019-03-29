@@ -50,6 +50,54 @@ no ID lablled.
 
 
 ## Recent Papers
+### **2019**
+1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
+
+2. Embedding Adversarial Learning for Vehicle Re-Identification **(IP)** [paper](https://ieeexplore.ieee.org/abstract/document/8653852)
+### **2018**
+1. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification **(CVPR)** [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
+
+2. Unsupervised Vehicle Re-Identification using Triplet Networks **(CVPR workshop)** [pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
+
+3. Vehicle Re-Identification with the Space-Time Prior **(CVPR workshop)** [pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)
+
+4. Fast vehicle identification via ranked semantic sampling based embedding **(IJCAI)** [pdf](https://www.ijcai.org/proceedings/2018/0514.pdf)
+
+5. Vehicle re-identification by deep hidden multi-view inference **(IP)** [paper](https://ieeexplore.ieee.org/abstract/document/8325486)
+
+6. Ram: a region-aware deep model for vehicle re-identification **(ICME)** [pdf](https://arxiv.org/pdf/1806.09283.pdf)
+
+7. Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification **(AAAI)** [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
+
+8. PROVID- Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance **(MM)** [paper](https://ieeexplore.ieee.org/abstract/document/8036238)
+
+9. Group Sensitive Triplet Embedding for Vehicle Re-identification **(MM)** [paper](https://ieeexplore.ieee.org/abstract/document/8265213)
+
+10. VP-ReID: vehicle and person re-identification system **(ACMMM)** [paper](https://dl.acm.org/citation.cfm?id=3206086)
+### **2017**
+1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
+
+2. Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)
+
+3. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
+
+4. Improving triplet-wise training of convolutional neural network for vehicle re-identification **(ICME)** [paper](https://ieeexplore.ieee.org/abstract/document/8019491)
+
+5. Deep hashing with multi-task learning for large-scale instance-level vehicle search **(ICME workshop)** [paper](https://ieeexplore.ieee.org/abstract/document/8026274)
+
+6. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment [paper](https://ieeexplore.ieee.org/abstract/document/8296683)
+
+7. Vehicle re-identification by fusing multiple deep neural networks [paper](https://ieeexplore.ieee.org/abstract/document/8310090)
+### **2016**
+1. Vehicle Re-Identification for Automatic Video Traffic Surveillance **(CVPR workshop)** [pdf](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
+
+2. Deep Relative Distance Learning- Tell the Difference Between Similar Vehicles **(CVPR)** [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
+
+3. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance **(ECCV)** [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
+
+4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos **(ICME)** [paper](https://ieeexplore.ieee.org/document/7553002)
+
+~~
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification **(ICCV2017)**
 
 Comments: Use multiple training sets.
@@ -69,4 +117,5 @@ Comments: Propose a dataset.
 6. Deep relative distance learning: Tell the difference between similar vehicles. **(CVPR2016)**
 
 7. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. **(ACCV2018)**
+~~
 
