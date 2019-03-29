@@ -2,7 +2,7 @@
 Just for a collection. I do not work on this topic.
 
 ## Dataset
-1. [VeRi-776](https://github.com/VehicleReId/VeRidataset)
+1. [VeRi-776](https://github.com/VehicleReId/VeRidataset)[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
