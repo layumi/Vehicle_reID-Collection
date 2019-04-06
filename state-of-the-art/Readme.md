@@ -5,4 +5,4 @@ If you notice any result or the public code that has not been included in this t
 
 |**Methods**|**Rank@1**|**Map**|**Reference**|
 |:---:|:---:|:---:|:---:|
-|VAMI|77.03%|50.13%|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi, CVPR2018 
+|VAMI|77.03%|50.13%|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi, CVPR2018|
