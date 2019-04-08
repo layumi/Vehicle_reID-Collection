@@ -95,7 +95,7 @@ no ID lablled.
 
 3. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance **(ECCV)** [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
-4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos **(ICME)** [paper](https://ieeexplore.ieee.org/document/7553002)
+4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos **(ICME)** [pdf](https://www.researchgate.net/profile/Xinchen_Liu/publication/303760492_Large-scale_vehicle_re-identification_in_urban_surveillance_videos/links/59e424090f7e9b97fbeb0ded/Large-scale-vehicle-re-identification-in-urban-surveillance-videos.pdf)
 
 ~~
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification **(ICCV2017)**
