@@ -54,6 +54,8 @@ no ID lablled.
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
 
 2. Embedding Adversarial Learning for Vehicle Re-Identification **(IP)** [paper](https://ieeexplore.ieee.org/abstract/document/8653852)
+
+3. Vehicle Re-Identification Using Quadruple Directional Deep Learning Features **(TITS)** [pdf](https://arxiv.org/pdf/1811.05163.pdf)
 ### **2018**
 1. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification **(CVPR)** [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
 
