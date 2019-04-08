@@ -8,6 +8,8 @@ Just for a collection. I do not work on this topic.
 
 49,357 images of 776 vehicles from 20 cameras. Like Market-1501 protocol.
 
+The VeRi dataset is divided into a training subset containing 37,781 images of 576 subjects and a testing subset with 13,257 images of 200 subjects.then a query set containing 1,678 images of 200 subjects and a gallery including 11,579 image of 200 subjects are finally obtained.
+
 2. PKU Vehicle-ID
 
     [project](https://pkuml.org/resources/pku-vehicleid.html) [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
