@@ -1,6 +1,5 @@
 # Vehicle Re-ID Collection
 Just for a collection. I do not work on this topic.
-https://drive.google.com/file/d/116mgxfms0XKDesuHqdWolCzguiZ__Vt9/view?usp=sharing
 
 ## Dataset
 1. VeRi-776
