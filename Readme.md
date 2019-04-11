@@ -14,7 +14,7 @@ The VeRi dataset is divided into a training subset containing 37,781 images of 5
 
     [project](https://pkuml.org/resources/pku-vehicleid.html) [pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)
 
-90,196 images of 10,319 vehicles. Only two camera views??
+221,763 images of 2,627 vehicles. Only two camera views??
 
 3. PKU-VD
 
