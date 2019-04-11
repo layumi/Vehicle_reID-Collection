@@ -16,5 +16,6 @@ If you notice any result or the public code that has not been included in this t
 |FACT|52.21%|72.88%|-|18.75%|2016|"Large-scale vehicle re-identification in urban surveillance videos." Liu, Xinchen, et al.ICME2016 [paper](https://ieeexplore.ieee.org/document/7553002)|
 |VGG-CNN-M-1024|44.10%|62.63%|-|12.76%|2016|"Deep relative distance learning: Tell the difference between similar vehicles." Liu, Hongye, et al CVPR2016 [paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Deep_Relative_Distance_CVPR_2016_paper.html)|
 |BOW-CN|33.91%|53.69%|-|12.20%|2015|"Scalable person re-identification: A benchmark." Zheng, Liang, et al. ICCV2015 [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html)|
-|LOMO|25.33%|46.48%|-|9.64%|| "Person re-identification by local maximal occurrence representation and metric learning."Liao, Shengcai, et al. CVPR2015 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Liao_Person_Re-Identification_by_2015_CVPR_paper.html)|
+|LOMO|25.33%|46.48%|-|9.64%|2015| "Person re-identification by local maximal occurrence representation and metric learning."Liao, Shengcai, et al. CVPR2015 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Liao_Person_Re-Identification_by_2015_CVPR_paper.html)|
+|BOW-SFIT|1.91%|4.53%|-|1.51%|2014|"Bayes merg- ing of multiple vocabularies for scalable image retrieval" Zheng, Liang, et al CVPR2014|
 ||%|%|-|%|||
