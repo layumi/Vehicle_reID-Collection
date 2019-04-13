@@ -55,7 +55,7 @@ no ID lablled.
 ### **2019**
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
 
-2. Embedding Adversarial Learning for Vehicle Re-Identification **(IP)** [paper](https://ieeexplore.ieee.org/abstract/document/8653852)
+2. Embedding Adversarial Learning for Vehicle Re-Identification **(TIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8653852)
 
 3. Vehicle Re-Identification Using Quadruple Directional Deep Learning Features **(TITS)** [pdf](https://arxiv.org/pdf/1811.05163.pdf)
 ### **2018**
