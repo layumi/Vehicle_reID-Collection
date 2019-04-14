@@ -12,6 +12,7 @@ If you notice any result or the public code that has not been included in this t
 |JFSDL|82.90%|91.60%|-|53.53%|IEEE Access2018|"Joint feature and similarity deep learning for vehicle re-identification." Zhu, Jianqing, et al [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)|
 |NuFACT|76.76%|91.42%|-|48.47%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
 |PROVID|81.56%|95.11%|-|53.42%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
+|VAMI+STR|85.92%|91.84%|-|61.32%|CVPR2018|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi |
 |VAMI|77.03%|90.82%|-|50.13%|CVPR2018|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi |
 |SCCN-Ft+CLBL-8-Ft|60.83%|78.55%|-|25.12%|TIP2018|"Vehicle re-identification by deep hidden multi-view inference." Zhou, Yi, Li Liu, and Ling Shao [paper](https://ieeexplore.ieee.org/abstract/document/8325486)|
 |ABLN-Ft-16|60.49%|77.33%|-|24.92%|WACV2018|"Vehicle re-identification by adversarial bi-directional LSTM network." Zhou, Yi, and Ling Shao [paper](https://ieeexplore.ieee.org/document/8354181)|
