@@ -9,6 +9,8 @@ If you notice any result or the public code that has not been included in this t
 |QD-DLF|88.50%|94.46%|-|61.83%|TITS2019|"Vehicle Re-Identification Using Quadruple Directional Deep Learning Features", Zhu, J., Zeng, H., Huang, J., Liao, S., Lei, Z., Cai, C., & Zheng, L [pdf](https://arxiv.org/pdf/1811.05163.pdf)|
 |Hard-View-EALN|84.39%|94.05%|-|57.44%|TIP2019|"Embedding Adversarial Learning for Vehicle Re-Identification." Lou, Yihang, et al [paper](https://ieeexplore.ieee.org/abstract/document/8653852/)|
 |RAM|88.6%|94.0%|-|61.5%|ICME2018|"Ram: a region-aware deep model for vehicle re-identification." Liu, Xiaobin, et al [paper](https://arxiv.org/pdf/1806.09283)|
+|GAN+LSRO|87.70%|93.92%|-|58.23%|ICPR2018|"Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification." Wu, Fangyu, et al [paper](https://ieeexplore.ieee.org/abstract/document/8545584/)|
+|GAN+LSRO+reranking|88.62%|94.52%|-|64.78%|ICPR2018|"Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification." Wu, Fangyu, et al [paper](https://ieeexplore.ieee.org/abstract/document/8545584/)|
 |JFSDL|82.90%|91.60%|-|53.53%|IEEE Access2018|"Joint feature and similarity deep learning for vehicle re-identification." Zhu, Jianqing, et al [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)|
 |SDC-CNN|83.49%|92.55%|-|53.45%|ICPR2018|"A shortly and densely connected convolutional neural network for vehicle re-identification." Zhu, Jianqing, et al [paper](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-ICPR-2018.pdf)|
 |NuFACT|76.76%|91.42%|-|48.47%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
