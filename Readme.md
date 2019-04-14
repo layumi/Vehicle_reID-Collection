@@ -78,6 +78,8 @@ no ID lablled.
 9. Group Sensitive Triplet Embedding for Vehicle Re-identification **(TMM)** [paper](https://ieeexplore.ieee.org/abstract/document/8265213)
 
 10. VP-ReID: vehicle and person re-identification system **(ACMMM)** [paper](https://dl.acm.org/citation.cfm?id=3206086)
+
+11. Vehicle Re-Identification by Adversarial Bi-Directional LSTM Network **(WACV)** [paper](https://ieeexplore.ieee.org/abstract/document/8354181/)
 ### **2017**
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
