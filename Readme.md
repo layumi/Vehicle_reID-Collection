@@ -89,9 +89,9 @@ no ID lablled.
 
 5. Deep hashing with multi-task learning for large-scale instance-level vehicle search **(ICME workshop)** [paper](https://ieeexplore.ieee.org/abstract/document/8026274)
 
-6. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment [paper](https://ieeexplore.ieee.org/abstract/document/8296683)
+6. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment **(ICIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8296683)
 
-7. Vehicle re-identification by fusing multiple deep neural networks [paper](https://ieeexplore.ieee.org/abstract/document/8310090)
+7. Vehicle re-identification by fusing multiple deep neural networks **(IPTA)** [paper](https://ieeexplore.ieee.org/abstract/document/8310090)
 ### **2016**
 1. Vehicle Re-Identification for Automatic Video Traffic Surveillance **(CVPR workshop)** [pdf](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
 
