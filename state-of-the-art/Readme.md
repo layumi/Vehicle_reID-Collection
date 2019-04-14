@@ -10,6 +10,7 @@ If you notice any result or the public code that has not been included in this t
 |Hard-View-EALN|84.39%|94.05%|-|57.44%|TIP2019|"Embedding Adversarial Learning for Vehicle Re-Identification." Lou, Yihang, et al [paper](https://ieeexplore.ieee.org/abstract/document/8653852/)|
 |RAM|88.6%|94.0%|-|61.5%|ICME2018|"Ram: a region-aware deep model for vehicle re-identification." Liu, Xiaobin, et al [paper](https://arxiv.org/pdf/1806.09283)|
 |JFSDL|82.90%|91.60%|-|53.53%|IEEE Access2018|"Joint feature and similarity deep learning for vehicle re-identification." Zhu, Jianqing, et al [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)|
+|SDC-CNN|83.49%|92.55%|-|53.45%|ICPR2018|"A shortly and densely connected convolutional neural network for vehicle re-identification." Zhu, Jianqing, et al [paper](http://www.cbsr.ia.ac.cn/users/zlei/papers/JQZHU-ICPR-2018.pdf)|
 |NuFACT|76.76%|91.42%|-|48.47%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
 |PROVID|81.56%|95.11%|-|53.42%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
 |VAMI+STR|85.92%|91.84%|-|61.32%|CVPR2018|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi |
