@@ -80,6 +80,12 @@ no ID lablled.
 10. VP-ReID: vehicle and person re-identification system **(ACMMM)** [paper](https://dl.acm.org/citation.cfm?id=3206086)
 
 11. Vehicle Re-Identification by Adversarial Bi-Directional LSTM Network **(WACV)** [paper](https://ieeexplore.ieee.org/abstract/document/8354181/)
+
+12. Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification **ICPR** [paper](https://ieeexplore.ieee.org/abstract/document/8545584/)
+
+13. Multi-Attribute Driven Vehicle Re-Identification with Spatial-Temporal Re-Ranking **ICIP** [paper](https://ieeexplore.ieee.org/abstract/document/8451776/)
+
+14. Joint feature and similarity deep learning for vehicle re-identification **IEEE Access** [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)
 ### **2017**
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
@@ -94,6 +100,8 @@ no ID lablled.
 6. Multi-modal metric learning for vehicle re-identification in traffic surveillance environment **(ICIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8296683)
 
 7. Vehicle re-identification by fusing multiple deep neural networks **(IPTA)** [paper](https://ieeexplore.ieee.org/abstract/document/8310090)
+ 
+8. Beyond human-level license plate super-resolution with progressive vehicle search and domain priori GAN **(ACMMM)** [paper](https://dl.acm.org/citation.cfm?id=3123422)
 ### **2016**
 1. Vehicle Re-Identification for Automatic Video Traffic Surveillance **(CVPR workshop)** [pdf](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)
 
