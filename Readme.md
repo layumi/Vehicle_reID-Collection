@@ -67,7 +67,7 @@ no ID lablled.
 
 4. Fast vehicle identification via ranked semantic sampling based embedding **(IJCAI)** [pdf](https://www.ijcai.org/proceedings/2018/0514.pdf)
 
-5. Vehicle re-identification by deep hidden multi-view inference **(IP)** [paper](https://ieeexplore.ieee.org/abstract/document/8325486)
+5. Vehicle re-identification by deep hidden multi-view inference **(TIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8325486)
 
 6. Ram: a region-aware deep model for vehicle re-identification **(ICME)** [pdf](https://arxiv.org/pdf/1806.09283.pdf)
 
