@@ -73,9 +73,9 @@ no ID lablled.
 
 7. Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification **(AAAI)** [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
 
-8. PROVID- Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance **(MM)** [paper](https://ieeexplore.ieee.org/abstract/document/8036238)
+8. PROVID- Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance **(TMM)** [paper](https://ieeexplore.ieee.org/abstract/document/8036238)
 
-9. Group Sensitive Triplet Embedding for Vehicle Re-identification **(MM)** [paper](https://ieeexplore.ieee.org/abstract/document/8265213)
+9. Group Sensitive Triplet Embedding for Vehicle Re-identification **(TMM)** [paper](https://ieeexplore.ieee.org/abstract/document/8265213)
 
 10. VP-ReID: vehicle and person re-identification system **(ACMMM)** [paper](https://dl.acm.org/citation.cfm?id=3206086)
 ### **2017**
@@ -100,26 +100,4 @@ no ID lablled.
 3. A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance **(ECCV)** [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)
 
 4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos **(ICME)** [pdf](https://www.researchgate.net/profile/Xinchen_Liu/publication/303760492_Large-scale_vehicle_re-identification_in_urban_surveillance_videos/links/59e424090f7e9b97fbeb0ded/Large-scale-vehicle-re-identification-in-urban-surveillance-videos.pdf)
-
-~~
-1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification **(ICCV2017)**
-
-Comments: Use multiple training sets.
-
-2. Learning Deep Neural Networks for Vehicle Re-ID with Visual-spatio-temporal Path Proposals **(ICCV2017)**
-
-Comments: Add the time constraint.
-
-3. Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles **(ICCV2017)**
-
-Comments: Propose a dataset.
-
-4. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification **(CVPR2018)**
-
-5. Group sensitive triplet embedding for vehicle re-identification **(TMM)**
-
-6. Deep relative distance learning: Tell the difference between similar vehicles. **(CVPR2016)**
-
-7. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. **(ACCV2018)**
-~~
 
