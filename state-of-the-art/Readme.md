@@ -27,5 +27,5 @@ If you notice any result or the public code that has not been included in this t
 |VGG-CNN-M-1024|44.10%|62.63%|-|12.76%|CVPR2016|"Deep relative distance learning: Tell the difference between similar vehicles." Liu, Hongye, et al [paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Liu_Deep_Relative_Distance_CVPR_2016_paper.html)|
 |BOW-CN|33.91%|53.69%|-|12.20%|ICCV2015|"Scalable person re-identification: A benchmark." Zheng, Liang, et al [paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html)|
 |LOMO|25.33%|46.48%|-|9.64%|CVPR2015| "Person re-identification by local maximal occurrence representation and metric learning."Liao, Shengcai, et al [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Liao_Person_Re-Identification_by_2015_CVPR_paper.html)|
-|BOW-SFIT|1.91%|4.53%|-|1.51%|CVPR2014|"Bayes merg- ing of multiple vocabularies for scalable image retrieval" Zheng, Liang, et al |
+|BOW-SFIT|1.91%|4.53%|-|1.51%|CVPR2014|"Bayes merging of multiple vocabularies for scalable image retrieval" Zheng, Liang, et al [paper](http://www.liangzheng.com.cn/CVPR14_bayes.pdf)|
 ||%|%|-|%|||
