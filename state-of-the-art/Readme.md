@@ -9,8 +9,8 @@ If you notice any result or the public code that has not been included in this t
 |QD-DLF|88.50%|94.46%|-|61.83%|TITS2019|"Vehicle Re-Identification Using Quadruple Directional Deep Learning Features", Zhu, J., Zeng, H., Huang, J., Liao, S., Lei, Z., Cai, C., & Zheng, L [pdf](https://arxiv.org/pdf/1811.05163.pdf)|
 |Hard-View-EALN|84.39%|94.05%|-|57.44%|TIP2019|"Embedding Adversarial Learning for Vehicle Re-Identification." Lou, Yihang, et al [paper](https://ieeexplore.ieee.org/abstract/document/8653852/)|
 |RAM|88.6%|94.0%|-|61.5%|ICME2018|"Ram: a region-aware deep model for vehicle re-identification." Liu, Xiaobin, et al [paper](https://arxiv.org/pdf/1806.09283)|
-|NuFACT|76.76%|91.42%|-|48.47%|MM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
-|PROVID|81.56%|95.11%|-|53.42%|MM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
+|NuFACT|76.76%|91.42%|-|48.47%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
+|PROVID|81.56%|95.11%|-|53.42%|TMM2018|"PROVID: Progressive and multimodal vehicle reidentification for large-scale urban surveillance." Liu, X., Liu, W., Mei, T., & Ma, H [paper](https://ieeexplore.ieee.org/abstract/document/8036238)|
 |VAMI|77.03%|90.82%|-|50.13%|CVPR2018|"Viewpoint-aware attentive multi-view inference for vehicle re-identification", Y Zhou, L Shao, A Dhabi |
 |SCCN-Ft+CLBL-8-Ft|60.83%|78.55%|-|25.12%|TIP2018|"Vehicle re-identification by deep hidden multi-view inference." Zhou, Yi, Li Liu, and Ling Shao [paper](https://ieeexplore.ieee.org/abstract/document/8325486)|
 |ABLN-Ft-16|60.49%|77.33%|-|24.92%|WACV2018|"Vehicle re-identification by adversarial bi-directional LSTM network." Zhou, Yi, and Ling Shao [paper](https://ieeexplore.ieee.org/document/8354181)|
