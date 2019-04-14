@@ -49,6 +49,9 @@ no ID lablled.
 8. Vehicle-1M
 
     [project](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
+    
+9. VD1/VD2
+    [project]() [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)
 
 
 ## Recent Papers
