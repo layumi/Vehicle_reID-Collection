@@ -4,7 +4,7 @@ If you notice any result or the public code that has not been included in this t
 
 
 # VeRi-776
-|**Methods**|**Rank@1**|**Rank@5**|**Rank@10**|**Map**|**Year**|**Reference**|
+|**Methods**|**Rank@1**|**Rank@5**|**Map**|**Year**|**Reference**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |QD-DLF|88.50%|94.46%|61.83%|TITS2019|"Vehicle Re-Identification Using Quadruple Directional Deep Learning Features", Zhu, J., Zeng, H., Huang, J., Liao, S., Lei, Z., Cai, C., & Zheng, L [pdf](https://arxiv.org/pdf/1811.05163.pdf)|
 |Hard-View-EALN|84.39%|94.05%|57.44%|TIP2019|"Embedding Adversarial Learning for Vehicle Re-Identification." Lou, Yihang, et al [paper](https://ieeexplore.ieee.org/abstract/document/8653852/)|
