@@ -62,6 +62,9 @@ no ID lablled.
 2. Embedding Adversarial Learning for Vehicle Re-Identification **(TIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8653852)
 
 3. Vehicle Re-Identification Using Quadruple Directional Deep Learning Features **(TITS)** [pdf](https://arxiv.org/pdf/1811.05163.pdf)
+
+4. VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification **（CVPR workshop）** [paper](http://openaccess.thecvf.com/content_CVPRW_2019/html/AI_City/Zheng_VehicleNet_Learning_Robust_Feature_Representation_for_Vehicle_Re-identification_CVPRW_2019_paper.html)
+
 ### **2018**
 1. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification **(CVPR)** [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
 
