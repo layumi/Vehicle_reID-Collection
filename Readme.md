@@ -2,7 +2,7 @@
 Just for a collection. I do not work on this topic.
 
 ## Code 
-The 1st Place Submission to AICity Challenge 2020 re-id track [code](https://github.com/layumi/AICIty-reID-2020)
+:red_car:  The 1st Place Submission to AICity Challenge 2020 re-id track [[code]](https://github.com/layumi/AICIty-reID-2020)
 
 ## Dataset
 1. VeRi-776
