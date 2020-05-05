@@ -123,3 +123,6 @@ no ID lablled.
 
 4. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos **(ICME)** [pdf](https://www.researchgate.net/profile/Xinchen_Liu/publication/303760492_Large-scale_vehicle_re-identification_in_urban_surveillance_videos/links/59e424090f7e9b97fbeb0ded/Large-scale-vehicle-re-identification-in-urban-surveillance-videos.pdf)
 
+### Reference
+- https://github.com/bismex/Awesome-vehicle-re-identification
+- https://github.com/knwng/awesome-vehicle-re-identification
