@@ -54,7 +54,8 @@ no ID lablled.
     [project](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)
     
     
-9. VERI-Wild (not release for time being)
+9. VERI-Wild 
+
 [project](https://github.com/PKU-IMRE/VERI-Wild)
 
 
