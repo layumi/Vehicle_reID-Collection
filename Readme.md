@@ -63,7 +63,7 @@ no ID lablled.
 
 ## Recent Papers
 ### **2020**
-VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification [arXiv](https://arxiv.org/abs/2004.06305)
+VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**  [arXiv](https://arxiv.org/abs/2004.06305)
 
 ### **2019**
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
