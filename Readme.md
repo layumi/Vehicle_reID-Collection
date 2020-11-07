@@ -1,10 +1,10 @@
 # Vehicle Re-ID Collection
 
 ## Code 
-:red_car:  The 1st Place Submission to AICity Challenge 2020 re-id track [[code]](https://github.com/layumi/AICIty-reID-2020)
+:red_car:  The 1st Place Submission to AICity Challenge 2020 re-id track (CVPR 2020 workshop) [[code]](https://github.com/layumi/AICIty-reID-2020)
  [[paper]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf)
  
- :helicopter:  Drone-based building re-id [[code]](https://github.com/layumi/University1652-Baseline)  [[paper]](https://arxiv.org/abs/2002.12186)
+ :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [[code]](https://github.com/layumi/University1652-Baseline)  [[paper]](https://arxiv.org/abs/2002.12186)
 
 ## Dataset
 1. VeRi-776
