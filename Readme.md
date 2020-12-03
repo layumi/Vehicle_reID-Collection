@@ -63,7 +63,9 @@ no ID lablled.
 
 ## Recent Papers
 ### **2020**
-VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**  [arXiv](https://arxiv.org/abs/2004.06305) [[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
+1. VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**  [arXiv](https://arxiv.org/abs/2004.06305) [[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
+
+2. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)** [paper](http://xinchenliu.com/papers/2020_ACMMM_PCRNet.pdf) [code](https://github.com/lxc86739795/parsing_platform)
 
 ### **2019**
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
