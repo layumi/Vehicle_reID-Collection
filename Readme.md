@@ -5,6 +5,8 @@
  [[paper]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf)
  
  :helicopter:  Drone-based building re-id (ACM Multimedia 2020) [[code]](https://github.com/layumi/University1652-Baseline)  [[paper]](https://arxiv.org/abs/2002.12186)
+ 
+ GPU-based Fast Re-Ranking [[code]](https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/GPU-Re-Ranking) [[paper]](https://arxiv.org/abs/2012.07620v2)
 
 ## Dataset
 1. VeRi-776
