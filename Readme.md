@@ -1,5 +1,10 @@
 # Vehicle Re-ID Collection
 
+If you notice any result or the public code that has not been included in this page, please connect [Zhedong Zheng](mailto:zdzheng12@gmail.com) without hesitation to add the method. You are welcomed! 
+or create pull request.
+
+Priorities are given to papers whose codes are published.
+
 ## Code 
 🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [[code]](https://github.com/ShuaiBai623/AIC2021-T5-CLV)[[paper]](https://github.com/layumi/NLP-AICity2021/blob/main/doc/CVPRW2021_NLP_AICity.pdf)
 
