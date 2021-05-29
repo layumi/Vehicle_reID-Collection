@@ -1,7 +1,7 @@
 # Vehicle Re-ID Collection
 
 ## Code 
-🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [[code]](https://github.com/ShuaiBai623/AIC2021-T5-CLV)
+🏎️. The 1st Place Submission to AICity Challenge 2021 nlp re-id track (CVPR 2021 workshop) [[code]](https://github.com/ShuaiBai623/AIC2021-T5-CLV)[[paper]](https://github.com/layumi/NLP-AICity2021/blob/main/doc/CVPRW2021_NLP_AICity.pdf)
 
 🚙: The 2nd Place Submission to AICity Challenge 2021 re-id track (CVPR 2021 workshop) [[code]](https://github.com/Xuanmeng-Zhang/AICITY2021-Track2)
 
