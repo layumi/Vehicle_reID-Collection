@@ -73,10 +73,40 @@ no ID lablled.
 
 
 ## Recent Papers
+### **2021**
+1. TransReID: Transformer-based Object Re-Identification **(ICCV)** [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) [code](https://github.com/damo-cv/TransReID)
+
+2. An Empirical Study of Vehicle Re-Identification on the AI City Challenge **(CVPR workchop)** [arXiv](https://arxiv.org/abs/2105.09701v1) [code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
+
+3. City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones **(CVPR workchop)** [arXiv](https://arxiv.org/abs/2105.06623v1) [code](https://github.com/LCFractal/AIC21-MTMC)
+
+4. PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification **(CVPR)** [paper](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.html) [code](https://github.com/emdata-ailab/PhD-Learning)
+
+5. Heterogeneous Relational Complement for Vehicle Re-identification **(ICCV)** [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.html) [code](https://github.com/iCVTEAM/HRCN)
+
+
+
 ### **2020**
 1. VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**  [arXiv](https://arxiv.org/abs/2004.06305) [[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
 
 2. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)** [paper](http://xinchenliu.com/papers/2020_ACMMM_PCRNet.pdf) [code](https://github.com/lxc86739795/parsing_platform)
+
+3. VOC-ReID: Vehicle Re-identification based on Vehicle-Orientation-Camera **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2004.09164)
+[code](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)
+
+4. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2004.10547v2)
+[code](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
+
+5. Vehicle Re-Identification Based on Complementary Features **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2005.04463v1) [code](https://github.com/gggcy/AIC2020_ReID)
+
+6. Simulating Content Consistent Vehicle Datasets with Attribute Descent **(ECCV)** [pdf](https://arxiv.org/pdf/1912.08855v2.pdf) [code](https://github.com/yorkeyao/VehicleX)
+
+7. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.html) [code](https://github.com/silverbulletmdc/PVEN)
+
+8. Robust Re-Identification by Multiple Views Knowledge Distillation **(ECCV)** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/996_ECCV_2020_paper.php) [code](https://github.com/aimagelab/VKD)
+
+9. Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network **(ECCV)** [pdf](https://paperswithcode.com/paper/orientation-aware-vehicle-re-identification) [code](https://github.com/tsaishien-chen/SPAN)
+
 
 ### **2019**
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
