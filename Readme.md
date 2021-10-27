@@ -74,39 +74,136 @@ no ID lablled.
 
 ## Recent Papers
 ### **2021**
-1. TransReID: Transformer-based Object Re-Identification **(ICCV)** [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) [code](https://github.com/damo-cv/TransReID)
+1. TransReID: Transformer-based Object Re-Identification **(ICCV)** 
+[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) 
+[code](https://github.com/damo-cv/TransReID)
 
-2. An Empirical Study of Vehicle Re-Identification on the AI City Challenge **(CVPR workchop)** [arXiv](https://arxiv.org/abs/2105.09701v1) [code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
+2. Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification **(IJCV)** 
+[pdf](https://link.springer.com/content/pdf/10.1007/s11263-020-01402-2.pdf)
 
-3. City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones **(CVPR workchop)** [arXiv](https://arxiv.org/abs/2105.06623v1) [code](https://github.com/LCFractal/AIC21-MTMC)
+3. Exploring Spatial Significance via Hybrid Pyramidal Graph Network for Vehicle Re-Identification **(TITS)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9457192)
 
-4. PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification **(CVPR)** [paper](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.html) [code](https://github.com/emdata-ailab/PhD-Learning)
+4. PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification **(CVPR)** 
+[paper](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.html) 
+[code](https://github.com/emdata-ailab/PhD-Learning)
 
-5. Heterogeneous Relational Complement for Vehicle Re-identification **(ICCV)** [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.html) [code](https://github.com/iCVTEAM/HRCN)
+5. Heterogeneous Relational Complement for Vehicle Re-identification **(ICCV)** 
+[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.html) 
+[code](https://github.com/iCVTEAM/HRCN)
 
+6. Model Latent Views With Multi-Center Metric Learning for Vehicle Re-Identification **(TITS)** 
+[paper](https://ieeexplore.ieee.org/document/9325909/)
 
+7. Inter-Domain Adaptation Label for Data Augmentation in Vehicle Re-identification **(TMM)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9513554)
+
+8. Learning Multiple Semantic Knowledge For Cross-Domain Unsupervised Vehicle Re-Identification **(ICME)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9428440)
+
+9. Multi-level Deep Learning Vehicle Re-identification using Ranked-based Loss Functions **(ICPR)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9412415)
+
+10. Keypoint-Aligned Embeddings for Image Retrieval and Re-Identification **(WACV)** 
+[pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Moskvyak_Keypoint-Aligned_Embeddings_for_Image_Retrieval_and_Re-Identification_WACV_2021_paper.pdf)
+
+11. Pseudo Graph Convolutional Network for Vehicle ReID **(ACMMM)** 
+[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475462)
+
+12. Vehicle Re-identification for Lane-level Travel Time Estimations on Congested Urban Road Networks Using Video Images **(TITS)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9569748)
+
+13. OERFF: A Vehicle Re-Identification Method Based on Orientation Estimation and Regional Feature Fusion **(IEEE Access)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9416706)
+
+14. Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification **(ICCV)** 
+[arXiv](https://arxiv.org/abs/2108.08728) 
+[code](https://github.com/raoyongming/CAL)
+
+15. Self-Supervised Geometric Features Discovery via Interpretable Attention for Vehicle Re-Identification and Beyond **(ICCV)** 
+[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)
 
 ### **2020**
-1. VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**  [arXiv](https://arxiv.org/abs/2004.06305) [[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
+1. VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification **(TMM)**
+[arXiv](https://arxiv.org/abs/2004.06305) 
+[[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
 
-2. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)** [paper](http://xinchenliu.com/papers/2020_ACMMM_PCRNet.pdf) [code](https://github.com/lxc86739795/parsing_platform)
+2. Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification **(ACM MM)** 
+[paper](http://xinchenliu.com/papers/2020_ACMMM_PCRNet.pdf) 
+[code](https://github.com/lxc86739795/parsing_platform)
 
-3. VOC-ReID: Vehicle Re-identification based on Vehicle-Orientation-Camera **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2004.09164)
-[code](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)
+3. The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification **(ECCV)** 
+[arXiv](https://arxiv.org/abs/2004.06271) 
+[[中文介绍]](https://zhuanlan.zhihu.com/p/191654655)
 
-4. Multi-Domain Learning and Identity Mining for Vehicle Re-Identification **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2004.10547v2)
-[code](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)
+4. Structural Analysis of Attributes for Vehicle Re-Identification and Retrieval **(TITS)** 
+[paper](https://ieeexplore.ieee.org/document/8643580)
 
-5. Vehicle Re-Identification Based on Complementary Features **(CVPR workshop)** [arXiv](https://arxiv.org/abs/2005.04463v1) [code](https://github.com/gggcy/AIC2020_ReID)
+5. Group-Group Loss-Based Global-Regional Feature Learning for Vehicle Re-Identification **(TIP)** 
+[paper](https://ieeexplore.ieee.org/document/8897720) 
+[code](https://github.com/liu-xb/GGL)
 
-6. Simulating Content Consistent Vehicle Datasets with Attribute Descent **(ECCV)** [pdf](https://arxiv.org/pdf/1912.08855v2.pdf) [code](https://github.com/yorkeyao/VehicleX)
+6. Simulating Content Consistent Vehicle Datasets with Attribute Descent **(ECCV)** 
+[pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-58539-6_46.pdf) 
+[code](https://github.com/yorkeyao/VehicleX)
+[[中文介绍]](https://zhuanlan.zhihu.com/p/198061566)
 
-7. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.html) [code](https://github.com/silverbulletmdc/PVEN)
+7. Parsing-based View-aware Embedding Network for Vehicle Re-Identification **(CVPR)** 
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.html)
+[code](https://github.com/silverbulletmdc/PVEN)
+[[中文介绍]](https://zhuanlan.zhihu.com/p/160877803)
 
-8. Robust Re-Identification by Multiple Views Knowledge Distillation **(ECCV)** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/996_ECCV_2020_paper.php) [code](https://github.com/aimagelab/VKD)
+8. Robust Re-Identification by Multiple Views Knowledge Distillation **(ECCV)** [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/996_ECCV_2020_paper.php) 
+[code](https://github.com/aimagelab/VKD)
 
-9. Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network **(ECCV)** [pdf](https://paperswithcode.com/paper/orientation-aware-vehicle-re-identification) [code](https://github.com/tsaishien-chen/SPAN)
+9. Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network **(ECCV)** 
+[pdf](https://paperswithcode.com/paper/orientation-aware-vehicle-re-identification) 
+[code](https://github.com/tsaishien-chen/SPAN)
 
+10. Vehicle Re-Identification Using Quadruple Directional Deep Learning Features **(TITS)** 
+[paper](https://ieeexplore.ieee.org/document/8667847)
+
+11. Multi-Spectral Vehicle Re-Identification: A Challenge **(AAAI)** 
+[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6796)
+
+12. Unsupervised Vehicle Re-identification with Progressive Adaptation **(IJCAI)** 
+[paper](https://www.ijcai.org/proceedings/2020/127)
+
+13. Disentangled Feature Learning Network for Vehicle Re-Identification **(IJCAI)** 
+[paper](https://www.ijcai.org/proceedings/2020/66)
+
+14. CFVMNet: A Multi-branch Network for Vehicle Re-identification Based on Common Field of View **(ACMMM)** 
+[paper](https://dl.acm.org/doi/10.1145/3394171.3413541)
+
+15. A Structured Graph Attention Network for Vehicle Re-Identification **(ACMMM)** 
+[paper](https://dl.acm.org/doi/10.1145/3394171.3413607)
+
+16. Fine-grained Feature Alignment with Part Perspective Transformation for Vehicle ReID **(ACMMM)** 
+[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413573)
+
+17. Background Segmentation for Vehicle Re-identification **(MMM)** 
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_8)
+
+18. Dual Domain Multi-Task Model for Vehicle Re-Identification **(TITS)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9226133/)
+
+19. Multi-View Spatial Attention Embedding for Vehicle Re-Identification **(TCSVT)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9033992)
+
+20. Unsupervised domain adaptive re-identification: Theory and practice **(PR)** 
+[paper](https://www.sciencedirect.com/science/article/pii/S003132031930473X)
+
+21. VARID: Viewpoint-Aware Re-IDentification of Vehicle Based on Triplet Loss **(TITS)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9210535)
+
+22. Uncertainty-Aware Multi-Shot Knowledge Distillation for Image-Based Object Re-Identification **(AAAI)** 
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6774)
+
+23. Tell The Truth From The Front: Anti-Disguise Vehicle Re-Identification **(ICME)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/9102939)
+
+24. Vehicle Re-Identification Using Distance-Based Global and Partial Multi-Regional Feature Learning **(TITS)** 
+[paper](https://ieeexplore.ieee.org/abstract/document/8972901)
 
 ### **2019**
 1. VR-PROUD: Vehicle Re-identification using PROgressive Unsupervised Deep architecture **(PR)** [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)
@@ -142,11 +239,11 @@ no ID lablled.
 
 11. Vehicle Re-Identification by Adversarial Bi-Directional LSTM Network **(WACV)** [paper](https://ieeexplore.ieee.org/abstract/document/8354181/)
 
-12. Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification **ICPR** [paper](https://ieeexplore.ieee.org/abstract/document/8545584/)
+12. Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification **(ICPR)** [paper](https://ieeexplore.ieee.org/abstract/document/8545584/)
 
-13. Multi-Attribute Driven Vehicle Re-Identification with Spatial-Temporal Re-Ranking **ICIP** [paper](https://ieeexplore.ieee.org/abstract/document/8451776/)
+13. Multi-Attribute Driven Vehicle Re-Identification with Spatial-Temporal Re-Ranking **(ICIP)** [paper](https://ieeexplore.ieee.org/abstract/document/8451776/)
 
-14. Joint feature and similarity deep learning for vehicle re-identification **IEEE Access** [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)
+14. Joint feature and similarity deep learning for vehicle re-identification **(IEEE Access)** [paper](https://ieeexplore.ieee.org/abstract/document/8424333/)
 ### **2017**
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification **(ICCV)** [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
 
