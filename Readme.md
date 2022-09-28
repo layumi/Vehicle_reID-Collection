@@ -72,6 +72,13 @@ no ID lablled.
 [project](https://github.com/PKU-IMRE/VERI-Wild)
 
 
+10. VRIC 
+with various motion blur and resolution
+
+[project](https://qmul-vric.github.io) 
+
+ 60,430 images of 5,622 vehicle identities captured by 60 different cameras 
+
 ## Recent Papers
 ### **2021**
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)** 
