@@ -80,6 +80,10 @@ with various motion blur and resolution
  60,430 images of 5,622 vehicle identities captured by 60 different cameras 
 
 ## Recent Papers
+
+### **2025**
+1. Coarse-to-Fine Cross-modality Generation for Enhancing Vehicle Re-Identification with High-Fidelity Synthetic Data **(ICRA)** [paper](https://www.zdzheng.xyz/files/ICRA25-Vehicle.pdf)
+
 ### **2021**
 1. TransReID: Transformer-based Object Re-Identification **(ICCV)** 
 [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) 
